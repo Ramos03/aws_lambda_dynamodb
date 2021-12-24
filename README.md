@@ -5,6 +5,7 @@
 AWS-LAMBDA-DYNAMODB é um projeto que foi realizado para cadastro e visualizações dos usuários, registrando acessos feitos na url.
 
 As endpoints do projeto são (Serão desativadas em 10 dias):
+
     POST - https://tyfqqht5u8.execute-api.us-east-1.amazonaws.com/dev/usuarios
 
     GET - https://tyfqqht5u8.execute-api.us-east-1.amazonaws.com/dev/usuarios
@@ -12,7 +13,7 @@ As endpoints do projeto são (Serão desativadas em 10 dias):
     GET - https://tyfqqht5u8.execute-api.us-east-1.amazonaws.com/dev/usuarios/{userId}
 
     GET - https://tyfqqht5u8.execute-api.us-east-1.amazonaws.com/dev/
-    
+
     GET - https://tyfqqht5u8.execute-api.us-east-1.amazonaws.com/dev/acessos
 
 ### Pré-requisitos
